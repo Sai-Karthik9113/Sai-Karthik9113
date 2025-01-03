@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://www.crio.do/learn/portfolio/sai9898karthik/" target="_blank">
-    <img src="IMG-20250103-WA0003.jpg" height="300" alt="Portfolio" />
+    <img src="IMG-20250103-WA0003.jpg" height="auto" width="auto" alt="Portfolio" />
   </a>
 </div>
 
