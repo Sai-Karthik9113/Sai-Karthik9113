@@ -11,11 +11,11 @@
 
 <br>
 
-- 📚 I have recently completed a Front-End module in a Fellowship program at Crio.Do, where I solved real-world development challenges.
-- 🌟 I have transitioned from sales quality analysis into software development, driven by my passion for technology and problem-solving.
-- 🌱 I’m currently expanding my skills by learning Back-End Development to grow as a Full-Stack Developer.
+- 📚 I have recently **completed a Front-End module** in a Fellowship program at Crio.Do, where I solved real-world development challenges.
+- 🌟 I have transitioned from **sales quality analysis into software development**, driven by my passion for technology and problem-solving.
+- 🌱 I’m currently expanding my skills by **learning Back-End Development** to grow as a Full-Stack Developer.
 - 👯 I like collaborating on scalable digital solutions that improve user experiences.
-- 🤝 I’m actively seeking a Front-End Developer role in product-based companies, whether they are innovative startups or renowned tech companies.
+- 🤝 I’m actively **seeking a Front-End Developer role** in product-based companies, whether they are innovative startups or renowned tech companies.
 - ⚡ Fun fact: I'm learning Japanese!
 
 <br>
