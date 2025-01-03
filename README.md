@@ -26,6 +26,8 @@
 <img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/67/external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks.png" alt="external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks"/> <img width="50" height="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-responsive-design-design-flaticons-flat-flat-icons.png" alt="external-responsive-design-design-flaticons-flat-flat-icons"/>
 </div>
 
+<br>
+
 <h2 align="center"> 🌐 Portfolio </h2>
 <p align="center">Visit my personal portfolio to explore my projects, skills, and experiences in detail!</p>
 
@@ -36,7 +38,6 @@
 </div>
 
 <h2 align="center"> 🐙 GitHub Stats </h2>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sai-Karthik9113&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="225" alt="streak graph"  />
 </div>
@@ -56,5 +57,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+<br>
 <p align="center">I’m excited to connect and create impactful digital solutions. Let’s innovate together! 😊</p>
