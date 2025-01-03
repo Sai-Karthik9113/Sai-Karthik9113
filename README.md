@@ -1,5 +1,6 @@
-<img src="">
+<img src="do-something-good-at-web-development.jpg" alt="MERN Banner" height="auto" width="100%" align="center">
 ## Hi there 👋, I'm Sai Shivak Kumar - A Civil Engineer Turned Full-Stack Developer 🚀
+<img src="image_processing20210907-8588-t5bv7p.gif" alt="Coding" align="right" width="400">
 
 🌟 **Passionate About Technology and Problem-Solving!**
 Transitioning from sales quality analysis, I completed a Front-End Development certification within a Full-Stack Web Development program, gaining expertise in building responsive, dynamic web applications. I’m ready to begin my tech journey, applying my skills to impactful projects while advancing as a developer.
