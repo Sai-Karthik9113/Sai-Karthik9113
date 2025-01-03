@@ -51,7 +51,7 @@
 <p align="center">Thank you for visiting my profile! If you’re looking for a dedicated Front-End Developer or simply want to collaborate on exciting projects, feel free to reach out.</p>
 
 <div align="center">
-  <a href="mailto:someone@example.com">
+  <a href="mailto:sai9898karthik@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
