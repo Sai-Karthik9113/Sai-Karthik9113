@@ -8,7 +8,7 @@
 <h2 align="center"> 🌟 About Me </h2>
 
 <img src="image_processing20210907-8588-t5bv7p.gif" alt="Coding" align="right" width="400">
-<br>
+
 <br>
 
 - 📚 I have recently **completed a Front-End module** in a Fellowship program at Crio.Do, where I solved real-world development challenges.
