@@ -3,6 +3,8 @@
 <h1 align="center"> Hi there 👋, I'm Sai Shivak Kumar </h1>
 <h3 align="center"><i>A Civil Engineer Turned Full-Stack Developer 🚀</i><h3/>
 
+<br>
+
 <h2 align="center"> 🌟 About Me </h2>
 
 <img src="image_processing20210907-8588-t5bv7p.gif" alt="Coding" align="right" width="400">
