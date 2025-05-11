@@ -9,11 +9,11 @@
 
 <img src="image_processing20210907-8588-t5bv7p.gif" alt="Coding" align="right" width="400">
 
-- 📚 I have recently **completed a Front-End module** in a Fellowship program at Crio.Do, where I solved real-world development challenges.
-- 🌟 I have transitioned from **sales quality analysis into software development**, driven by my passion for technology and problem-solving.
-- 🌱 I’m expanding my skills by **learning Back-End Development** to grow as a Full-Stack Developer.
-- 👯 I like collaborating on scalable digital solutions that improve user experiences.
-- 🤝 I’m actively **seeking a Front-End Developer role** in product-based companies, whether they are innovative startups or renowned tech companies.
+- 📚 I recently **completed the Front-End module of a Fellowship Program** at Crio.Do, gaining hands-on experience with real-world projects like Medify and Expense Tracker.
+- 🌟 After gaining **experience in tech through hands-on development with React and real-world projects**, I fully embraced front-end development to build clean UIs and solve practical problems.
+- 🌱 I’m currently expanding my skill set by **exploring Back-End Development**, working towards **becoming a Full-Stack Developer**.
+- 👯 I enjoy building scalable, user-friendly web applications and collaborating with cross-functional teams.
+- 🤝 I’m actively **seeking Front-End Developer roles** in product-based companies where I can grow and contribute to impactful digital solutions.
 - ⚡ Fun fact: I'm learning Japanese!
 
 <br>
