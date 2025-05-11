@@ -1,7 +1,7 @@
 <img src="banner.jpeg" alt="MERN Banner" height="auto" width="100%" align="center">
 
 <h1 align="center"> Hi there 👋, I'm Sai Shivak Kumar </h1>
-<h3 align="center"><i>Front-End Developer With an Eye for Detail 🚀</i><h3/>
+<h3 align="center"><i>Front-End Developer With an Eye for Detail 🚀</i></h3>
 
 <br>
 
@@ -29,7 +29,7 @@
 <br>
 
 <h2 align="center"> 🌐 Portfolio </h2>
-<p align="center">Visit my portfolio to explore my projects, skills, and experiences in detail!</p>
+<p align="center">Explore my portfolio to see the projects, skills, and experiences I gained through the Crio.Do Fellowship Program!</p>
 
 <div align="center">
   <a href="https://www.crio.do/learn/portfolio/sai9898karthik/" target="_blank">
@@ -43,7 +43,7 @@
 
 <h2 align="center"> 🚀 Let’s Build Something Great Together! </h2>
 
-<p align="center">Thank you for visiting my profile! If you’re looking for a dedicated Front-End Developer or simply want to collaborate on exciting projects, feel free to reach out.</p>
+<p align="center">Thanks for stopping by! Feel free to reach out if you're looking for a dedicated Front-End Developer or are interested in collaborating on exciting projects.</p>
 
 <div align="center">
   <a href="mailto:sai9898karthik@gmail.com">
