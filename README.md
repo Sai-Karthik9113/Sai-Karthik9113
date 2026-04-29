@@ -33,7 +33,7 @@
         <td style="border:none;"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind-css"/></td>
         <td style="border:none;"><img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/></td>
         <td style="border:none;"><img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/></td>
-        <td style="border:none;"><img width="50" height="50" src="https://iconscout.com/contributors/icon-54" alt="postmanapi"/></td>
+        <td style="border:none;"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=1476&format=png&color=000000" alt="database"/></td>
         <td style="border:none;"><img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></td>
         <td style="border:none;"><img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/></td>
         <td style="border:none;"><img width="50" height="50" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="github"/></td>
