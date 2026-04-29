@@ -35,7 +35,7 @@
   <img src="https://img.icons8.com/?size=100&id=1476&format=png&color=007BFF" width="50"/>
   <img src="https://img.icons8.com/color-glass/48/bootstrap.png" width="50"/>
   <img src="https://img.icons8.com/color/50/git.png" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=0F172A" width="50"/>
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=172554" width="50"/>
   <img src="https://img.icons8.com/color/50/linux--v1.png" width="50"/>
   <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png" width="50"/>
 </div>
