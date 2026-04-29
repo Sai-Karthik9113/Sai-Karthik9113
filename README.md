@@ -22,7 +22,7 @@
 
 <h2 align="center"> 🚀 Current Work </h2>
 
-<h3 align="center"> 🏗️ Archlyf (Client Project) </h3>
+<h3> 🏗️ Archlyf (Client Project) </h3>
 
 <p align="center">
 Building a custom web platform combining a public website and an admin dashboard to manage content, enquiries, and business operations.
