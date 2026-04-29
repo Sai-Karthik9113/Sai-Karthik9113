@@ -21,23 +21,23 @@
 
 <h2 align="center"> 🛠️ Skills </h2>
 <div align="center">
-  <img src="https://img.icons8.com/officel/100/react.png" width="50"/>
-  <img src="https://img.icons8.com/color/100/javascript--v2.png" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/color/50/html-5--v1.png" width="50"/>
-  <img src="https://img.icons8.com/color/50/css3.png" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=1476&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/color-glass/48/bootstrap.png" width="50"/>
-  <img src="https://img.icons8.com/color/50/git.png" width="50"/>
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="50"/>
-  <img src="https://img.icons8.com/color/50/linux--v1.png" width="50"/>
-  <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png" width="50"/>
+  <img src="https://img.icons8.com/officel/100/react.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/100/javascript--v2.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/html-5--v1.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/css3.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=1476&format=png&color=ffffff" width="50" height="50"/>
+  <img src="https://img.icons8.com/color-glass/48/bootstrap.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/git.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/linux--v1.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/visual-studio-code-2019.png" width="50" height="50"/>
 </div>
 
 <br>
