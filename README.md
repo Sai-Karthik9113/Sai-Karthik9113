@@ -22,23 +22,23 @@
 <h2 align="center"> 🛠️ Skills </h2>
 <table align="center" style="border:none;">
     <tr>
-        <td><img width="50" height="50" src="https://img.icons8.com/officel/100/react.png" alt="react"/></td> 
-        <td><img width="50" height="50" src="https://img.icons8.com/color/100/javascript--v2.png" alt="javascript--v2"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" alt="typescript"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000" alt="redux"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000" alt="jest"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind-css"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/color/50/linux--v1.png" alt="linux--v1"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/67/external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks.png" alt="external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks"/></td>
-        <td><img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs"/></td>
-        <td><img height="50" width="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="expressjs"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" alt="mysql"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-responsive-design-design-flaticons-flat-flat-icons.png" alt="external-responsive-design-design-flaticons-flat-flat-icons"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/officel/100/react.png" alt="react"/></td> 
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/color/100/javascript--v2.png" alt="javascript--v2"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000" alt="typescript"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000" alt="redux"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000" alt="jest"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind-css"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/color/50/linux--v1.png" alt="linux--v1"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/67/external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks.png" alt="external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks"/></td>
+        <td style="border:none;><img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs"/></td>
+        <td style="border:none;><img height="50" width="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" alt="expressjs"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" alt="mysql"/></td>
+        <td style="border:none;><img width="50" height="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-responsive-design-design-flaticons-flat-flat-icons.png" alt="external-responsive-design-design-flaticons-flat-flat-icons"/></td>
     </tr>
 </table>
 
