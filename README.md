@@ -20,7 +20,7 @@
 <br>
 
 <h2 align="center"> 🛠️ Skills </h2>
-<table align="center">
+<table align="center" style="border:none;">
     <tr>
         <td><img width="50" height="50" src="https://img.icons8.com/officel/100/react.png" alt="react"/></td> 
         <td><img width="50" height="50" src="https://img.icons8.com/color/100/javascript--v2.png" alt="javascript--v2"/></td>
@@ -28,8 +28,17 @@
         <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000" alt="redux"/></td>
         <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000" alt="jest"/></td>
         <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind-css"/></td>
-        <img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/> <img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/> <img width="50" height="50" src="https://img.icons8.com/color/50/linux--v1.png" alt="linux--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-        <img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/67/external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks.png" alt="external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=1wTjrRHu3nJL&format=png&color=000000" alt="unit-testing"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lu3KYTtdnLbW&format=png&color=000000" alt="integration-testing"/> <img width="50" height="50" src="https://img.icons8.com/material-rounded/48/api-settings.png" alt="api-settings"/> <img width="50" height="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-responsive-design-design-flaticons-flat-flat-icons.png" alt="external-responsive-design-design-flaticons-flat-flat-icons"/>
+        <td><img width="50" height="50" src="https://img.icons8.com/color/50/html-5--v1.png" alt="html-5--v1"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/color/50/css3.png" alt="css3"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/color/50/git.png" alt="git"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/color/50/linux--v1.png" alt="linux--v1"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/67/external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks.png" alt="external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks"/></td>
+        <td><img height="50" width="50" src="https://img.icons8.com/?size=100&id=1wTjrRHu3nJL&format=png&color=000000" alt="unit-testing"/></td>
+        <td><img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lu3KYTtdnLbW&format=png&color=000000" alt="integration-testing"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/material-rounded/48/api-settings.png" alt="api-settings"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-responsive-design-design-flaticons-flat-flat-icons.png" alt="external-responsive-design-design-flaticons-flat-flat-icons"/></td>
     </tr>
 </table>
 
