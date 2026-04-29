@@ -1,7 +1,7 @@
 <img src="banner.jpeg" alt="MERN Banner" height="auto" width="100%" align="center">
 
 <h1 align="center"> Hi there 👋, I'm Sai Shivak Kumar </h1>
-<h3 align="center"><i>Front-End Developer With an Eye for Detail 🚀</i></h3>
+<h3 align="center"><i>Frontend / Full Stack Developer • Turning Business Workflows into Scalable Digital Solutions 🚀</i></h3>
 
 <br>
 
@@ -9,12 +9,13 @@
 
 <img src="image_processing20210907-8588-t5bv7p.gif" alt="Coding" align="right" width="400">
 
-- 💻 **Experience**: I have hands-on experience **migrating a learning portal from vanilla JavaScript to React**, focusing on building reusable components, integrating APIs, and improving code maintainability within a small, cross-functional team.
-- 🎓 **Certifications**: Certified through Crio.Do’s Fellowship Program, where I worked on projects like **Medify** and **Expense Tracker**.
-- 🌱 **Passion**: I’m passionate about crafting clean, responsive UIs and solving real-world problems with modern web technologies.  
-- 🧠 **Currently learning**: Node.js & Express (to grow into full-stack)  
-- 🌍 **Exploring**: Open-source collaboration and scalable UI systems  
-- 💼 **Actively seeking**: Front-End Developer roles at product-based companies  
+- 💻 **Experience**: Full Stack Developer with hands-on experience building **admin dashboards and business applications**, including real estate platforms and enquiry management systems. Focused on reusable components, API integration, and scalable UI architecture using React.
+- 🎓 **Work**: Contributed to both **product development and client-facing applications**, improving development speed and consistency through structured frontend practices and Tailwind CSS.
+- 🌱 **Focus**: Crafting clean, responsive, and **user-focused interfaces** with strong attention to performance and maintainability.
+- 🧠 **Approach**: Strong emphasis on **real-world usage, data flow, and usability**, ensuring features are practical and intuitive.
+- 🔄 **Full Stack Exposure**: Experience with **API integration, database design, and deployment (VPS)**, comfortable working across the stack.
+- 🌍 **Exploring**: Scalable UI systems, performance optimization, and modern frontend patterns.
+- 💼 **Open to**: Frontend / Full Stack Developer roles in product-focused teams.
 - ⚡ **Fun fact**: I'm learning Japanese!  
 
 <br>
@@ -57,7 +58,7 @@
 
 <h2 align="center"> 🚀 Let’s Build Something Great Together! </h2>
 
-<p align="center">Thanks for stopping by! Feel free to reach out if you're looking for a dedicated Front-End Developer or are interested in collaborating on exciting projects.</p>
+<p align="center">I enjoy working on scalable, user-focused applications and collaborating on meaningful products. If you're looking for a Frontend / Full Stack Developer who values clean code, usability, and real-world impact, feel free to connect. </p>
 
 <div align="center">
   <a href="mailto:sai9898karthik@gmail.com">
