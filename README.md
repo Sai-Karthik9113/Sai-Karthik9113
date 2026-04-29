@@ -28,13 +28,13 @@
 Building a custom web platform combining a public website and an admin dashboard to manage content, enquiries, and business operations.
 </p>
 
-<ul align="center" style="list-style-position: inside;">
+<ul>
   <li>Versioned development with structured releases (v0.1.0)</li>
   <li>Scalable frontend architecture (React + TypeScript)</li>
   <li>Planned modules: backend, enquiry system, admin dashboard, billing</li>
 </ul>
 
-<p align="center">
+<p>
 🔗 <a href="https://archlyf.com" target="_blank">archlyf.com</a>
 </p>
 
