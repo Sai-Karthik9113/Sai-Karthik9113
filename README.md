@@ -24,6 +24,8 @@
 
 <h3> 🏗️ Archlyf (Client Project) </h3>
 
+**Type:** Client project (freelance, developed outside primary employment)
+
 <p>
 Building a custom web platform combining a public website and an admin dashboard to manage content, enquiries, and business operations.
 </p>
