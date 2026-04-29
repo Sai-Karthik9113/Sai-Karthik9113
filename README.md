@@ -36,8 +36,8 @@
         <td><img width="50" height="50" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></td>
         <td><img width="50" height="50" src="https://img.icons8.com/external-smashingstocks-thin-outline-color-smashing-stocks/67/external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks.png" alt="external-debugging-finance-smashingstocks-thin-outline-color-smashing-stocks"/></td>
         <td><img height="50" width="50" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="nodejs"/></td>
-        <td><img height="50" width="50" src="https://img.icons8.com/?size=100&id=Lu3KYTtdnLbW&format=png&color=000000" alt="expressjs"/></td>
-        <td><img width="50" height="50" src="https://img.icons8.com/material-rounded/48/api-settings.png" alt="mysql"/></td>
+        <td><img height="50" width="50" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="expressjs"/></td>
+        <td><img width="50" height="50" src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" alt="mysql"/></td>
         <td><img width="50" height="50" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-responsive-design-design-flaticons-flat-flat-icons.png" alt="external-responsive-design-design-flaticons-flat-flat-icons"/></td>
     </tr>
 </table>
