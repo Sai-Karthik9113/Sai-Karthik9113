@@ -20,6 +20,26 @@
 
 <br>
 
+<h2 align="center"> 🚀 Current Work </h2>
+
+<h3 align="center"> 🏗️ Archlyf (Client Project) </h3>
+
+<p align="center">
+Building a custom web platform combining a public website and an admin dashboard to manage content, enquiries, and business operations.
+</p>
+
+<ul align="center" style="list-style-position: inside;">
+  <li>Versioned development with structured releases (v0.1.0)</li>
+  <li>Scalable frontend architecture (React + TypeScript)</li>
+  <li>Planned modules: backend, enquiry system, admin dashboard, billing</li>
+</ul>
+
+<p align="center">
+🔗 <a href="https://archlyf.com" target="_blank">archlyf.com</a>
+</p>
+
+<br>
+
 <h2 align="center"> 🛠️ Skills </h2>
 <div align="center">
   <img src="https://img.icons8.com/officel/100/react.png" width="50"/>
